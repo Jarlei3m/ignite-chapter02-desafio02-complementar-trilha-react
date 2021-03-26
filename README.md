@@ -91,7 +91,7 @@ Nesse desafio você já recebe a aplicação totalmente funcional, então todos 
 ```bash
 
 # Clonar esse repositório
-$ git clone https://github.com/Jarlei3m/ignite-desafio02-complementar-trilha-react
+$ git clone https://github.com/Jarlei3m/ignite-chapter02-desafio02-complementar-trilha-react
 
 # Entrar na pasta do repositório
 $ cd ignite-desafio02-complementar-trilha-react
