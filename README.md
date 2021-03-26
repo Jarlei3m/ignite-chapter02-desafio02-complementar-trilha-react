@@ -86,7 +86,7 @@ Caso você tenha dificuldade nesse processo de migração, dê uma olhada no nos
 
 ## :information_source: Como deve ficar a aplicação ao final? [Minha resolução]
 
-Nesse desafio você já recebe a aplicação totalmente funcional, então todos os recursos mostrados já estão implementados no template e devem permanecer funcionado após suas alterações. Mas caso queira ver o resultado o final após a conversão (lembrando que esse NÃO é o gabarito oficial da rocketseat, apenas a forma que eu resolvi o desafio), basta seguir os passos abaixo :
+Nesse desafio você já recebe a aplicação totalmente funcional, então todos os recursos mostrados já estão implementados no template e devem permanecer funcionado após suas alterações. Mas caso queira ver o resultado o final após a conversão (lembrando que esse NÃO é o gabarito oficial da rocketseat, apenas a forma que eu resolvi o desafio, esse não passou por testes por ser complementar/opcional), basta seguir os passos abaixo :
 
 ```bash
 
