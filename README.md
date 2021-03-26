@@ -84,5 +84,27 @@ Configurando esse setup, você deve ser capaz de trabalhar normalmente com o Typ
 
 Caso você tenha dificuldade nesse processo de migração, dê uma olhada no nosso guia sobre esse assunto: [Componentes no React](https://www.notion.so/Componentes-no-React-6644d41da663405cb29dcaae1693bb9f)
 
+## :information_source: Como deve ficar a aplicação ao final? [Minha resolução]
 
-Feito com 💜 por Rocketseat 👋 Participe da nossa [comunidade aberta!](https://discord.gg/pUU3CG4Z)
+Nesse desafio você já recebe a aplicação totalmente funcional, então todos os recursos mostrados já estão implementados no template e devem permanecer funcionado após suas alterações. Mas caso queira ver o resultado o final após a conversão (lembrando que esse NÃO é o gabarito oficial da rocketseat, apenas a forma que eu resolvi o desafio), basta seguir os passos abaixo :
+
+```bash
+
+# Clonar esse repositório
+$ git clone https://github.com/Jarlei3m/ignite-desafio02-complementar-trilha-react
+
+# Entrar na pasta do repositório
+$ cd ignite-desafio02-complementar-trilha-react
+
+# Instalar dependências
+$ yarn
+
+# Rodar o server
+$ yarn server
+
+# Rodar aplicação
+$ yarn start
+```
+O projeto pode ser visto no seu browser em `http://localhost:3000` e a api em `http://localhost:3333/foods`.
+
+Feito com 💜 por Rocketseat e resolvido com ♥ por Járlei Rodrigues 👋 Participe da nossa [comunidade aberta!](https://discord.gg/pUU3CG4Z) e [Get in touch!](https://www.linkedin.com/in/jarleirodrigues/)
